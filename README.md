@@ -3,10 +3,10 @@ Full Stack Developer | Java • Spring Boot • React • Node.js • Express.js
 
 ## 👨‍💻 About Me
 
-• 🔭 Experienced in building scalable backend systems, REST APIs, and full-stack applications using Java and Spring Boot.  
-• 🌱 Currently learning Data Structures and Algorithms to strengthen problem-solving and system design skills.  
-• 📚 Always learning and improving as a software developer.  
-• 📫 You can contact me at mecksonraja05@gmail.com
+*   🔭 Experienced in building scalable backend systems, REST APIs, and full-stack applications using Java and Spring Boot.  
+*   🌱 Currently learning Data Structures and Algorithms to strengthen problem-solving and system design skills.  
+*   📚 Always learning and improving as a software developer.  
+*   📫 You can contact me at mecksonraja05@gmail.com
 
 ## 🛠 Tech Stack
 
